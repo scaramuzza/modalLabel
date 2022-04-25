@@ -14,8 +14,8 @@ JS => Math.trunc, Math.random, function, querySelector, textContent, addEventLis
 
 ## preview-1
 
-![preview](https://github.com/scaramuzza/guessMyNumber/blob/main/going.png)
+![preview](https://github.com/scaramuzza/modalLabel/blob/main/modalLabel-preview1.png)
 
 ## preview-2
 
-![preview](https://github.com/scaramuzza/guessMyNumber/blob/main/winner.png)
+![preview](https://github.com/scaramuzza/modalLabel/blob/main/modalLabel-preview2.png)
