@@ -10,7 +10,7 @@ Este código tem o objetivo único de mostrar ao mercado minha evolução como d
 
 ## keywords
 
-JS => x;
+JS => use strict, querySelector, querySelectorAll, function, classList.remove, classList.add, addEventListener, click, keydown;
 
 ## preview-1
 
