@@ -19,4 +19,3 @@ JS => use strict, querySelector, querySelectorAll, function, classList.remove, c
 ## preview-2
 
 ![preview](https://github.com/scaramuzza/modalLabel/blob/main/modalLabel-preview2.png)
-hjhj
